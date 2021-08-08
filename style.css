@@ -28,6 +28,8 @@ h2 {
 
 .author-box {
     font-size: 22px;
+    padding-top: 20px;
+    border-top: 1px solid rgb(29, 29, 29);
 }
 
 p {
